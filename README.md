@@ -13,3 +13,7 @@
 ➡️[一些代码相关的内容](https://docs.siyuan-note.club/zh-Hans/reference/bazaar/)
 
 [使用指南](http://www.onemo.net/about)
+
+[思源开发者文档](https://docs.siyuan-note.club/zh-Hans/?utm_source=ld246.com)
+
+[插件开发 Quick Start](https://ld246.com/article/1723732790981?r=JeffreyChen)
